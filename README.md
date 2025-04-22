@@ -12,6 +12,7 @@ The application is containerized using Docker, with images pushed to Docker Hub.
 
 This project is a hands-on implementation of the full DevOps lifecycle — from source control and containerization to automated delivery and cloud deployment.
 
+👉 **To know more about this project, visit the [GitHub README](https://github.com/amie2001/Capstone-Project/blob/dev/README.md)**.
 
 Pipeline setup
 
