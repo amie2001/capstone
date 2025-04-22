@@ -1,4 +1,6 @@
-title: React-app-deployment
-#description: text below image
-show_downloads: true
-theme: cayman
+title: Capstone Project
+description: Production-ready React app deployment using Docker, Jenkins, and AWS.
+theme: null
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
