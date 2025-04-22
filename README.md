@@ -14,16 +14,16 @@ This project is a hands-on implementation of the full DevOps lifecycle — from 
 
 👉 **To know more about this project, visit the [GitHub README](https://github.com/amie2001/Capstone-Project/blob/dev/README.md)**.
 
-Pipeline setup
+PIPELINE SETUP
 
-![Pipeline setup](asset/pipeline.png)
-
-
-React-App deployment
-
-![React-App deployment](asset/app.png)
+![PIPELINE SETUP](asset/pipeline.png)
 
 
-Monitoring dashboard
+REACT-APP-DEPLOYMENT
 
-![Monitoring dashboard](asset/monitoring.png)
+![REACT-APP-DEPLOYMENT](asset/app.png)
+
+
+MONITORING DASHBOARD
+
+![MONITORING DASHBOARD](asset/monitoring.png)
