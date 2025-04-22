@@ -11,3 +11,16 @@ The application is containerized using Docker, with images pushed to Docker Hub.
 > ✅ Hosted on AWS EC2 (Ubuntu)
 
 This project is a hands-on implementation of the full DevOps lifecycle — from source control and containerization to automated delivery and cloud deployment.
+
+Pipeline setup
+![Pipeline setup](asset/pipeline.png)
+
+
+React-App deployment
+
+![React-App deployment](asset/app.png)
+
+
+Monitoring dashboard
+
+![Monitoring dashboard](asset/monitoring.png)
